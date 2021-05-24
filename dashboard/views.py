@@ -35,7 +35,6 @@ def generate_frontend():
     if time.time() - last_update_time > CACHE_SECONDS or first_time: # check if CACHE_SECONDS has passed to update site again
         first_time = False
         last_update_time = time.time()
-        print('sending api request')
         timeline = api.mentions_timeline() # grabbing all bot mentions
 
         html = '''<html>
@@ -59,7 +58,6 @@ def generate_frontend():
         html += '<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center></body></html>'
         return html # return latest version
     else: 
-        print('using cached')
         return html # return cached version
 
 def index(request):
