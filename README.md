@@ -10,7 +10,7 @@ BFH/rec0dNSukwSW0e1Yl/2021
 [link to video]
 ## How it Works ?
 1. [Explaining the working of project](https://drive.google.com/file/d/1qDsHcED1l09ThDLG5juvx1Moye-moH3X/view?usp=drivesdk)
-2. Embed video of project demo
+2. [Embed video of project demo](https://drive.google.com/file/d/1qDsHcED1l09ThDLG5juvx1Moye-moH3X/view?usp=drivesdk)
 ## Libraries used
 1. tweepy - 3.10.0
 2. fastapi - 0.65.1
