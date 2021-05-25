@@ -12,9 +12,9 @@ BFH/rec0dNSukwSW0e1Yl/2021
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-tweepy - 3.10.0
-fastapi - 0.65.1
-uvicorn - 0.13.4
+1. tweepy - 3.10.0
+2. fastapi - 0.65.1
+3. uvicorn - 0.13.4
 ## How to configure
 ```
 git clone https://github.com/athul2092/bfhtwitterbot
