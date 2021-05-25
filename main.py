@@ -83,6 +83,7 @@ def generate_frontend():
         return html # return cached version
 
 
+# waiting for request
 @app.get("/", response_class=HTMLResponse)
 def read_root():
     html = generate_frontend()
