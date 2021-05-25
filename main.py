@@ -39,7 +39,7 @@ def generate_frontend():
     global first_time
     global html
     # check if CACHE_SECONDS has passed to update the site again
-    if time.time() - last_update_time > CACHE_SECONDS or first_time: 
+    if time.time() - last_update_time > CACHE_SECONDS or first_time:
         first_time = False
         last_update_time = time.time()
         timeline = api.mentions_timeline() # grabbing all the bot mentions

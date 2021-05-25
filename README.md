@@ -9,7 +9,7 @@ BFH/rec0dNSukwSW0e1Yl/2021
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
+1. [Explaining the working of project](https://drive.google.com/file/d/1qDsHcED1l09ThDLG5juvx1Moye-moH3X/view?usp=drivesdk)
 2. Embed video of project demo
 ## Libraries used
 1. tweepy - 3.10.0
