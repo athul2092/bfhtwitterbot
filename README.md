@@ -7,9 +7,10 @@
 ## Team Id
 BFH/rec0dNSukwSW0e1Yl/2021
 ## Link to product walkthrough
-[link to video]
+[link to video](https://drive.google.com/file/d/1qDuaTWrXqApGrMHiZrBtIG8fmhB9este/view?usp=drivesdk)
+[Live Demo](http://3.15.8.19/)
 ## How it Works ?
-1. [Explaining the working of project](https://drive.google.com/file/d/1qDsHcED1l09ThDLG5juvx1Moye-moH3X/view?usp=drivesdk)
+1. Explaining the working of project
 2. [Embed video of project demo](https://drive.google.com/file/d/1qDsHcED1l09ThDLG5juvx1Moye-moH3X/view?usp=drivesdk)
 ## Libraries used
 1. tweepy - 3.10.0
