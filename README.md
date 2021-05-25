@@ -21,7 +21,7 @@ git clone https://github.com/athul2092/bfhtwitterbot
 cd bfhtwitterbot
 sudo pip3 install -r requirements.txt
 ```
-Create a config.json file in root directory and add your twitter api credentials
+Create a config.json file in root directory and add your [twitter api](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api) credentials
 ```
 {
 "BOT_USERNAME" : "@botusername",
