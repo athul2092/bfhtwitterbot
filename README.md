@@ -10,7 +10,7 @@ BFH/rec0dNSukwSW0e1Yl/2021
 [link to video](https://drive.google.com/file/d/1qDuaTWrXqApGrMHiZrBtIG8fmhB9este/view?usp=drivesdk)\
 [live demo](http://3.15.8.19/)
 ## How it Works ?
-1. This program will enable us to save a Twitter thread by tagging the bot on a thread. The program will access the Twitter api and fetch all the threads in the mentions timeline. The program will then display all the tweets on the front-end by looping through the timeline.
+1. This program will enable us to save a Twitter thread by tagging the bot on a thread. The program will access the Twitter api and fetch all the threads in the mentions timeline. The program will then display all the tweets on the front-end.
 2. [Embed video of project demo](https://drive.google.com/file/d/1qDsHcED1l09ThDLG5juvx1Moye-moH3X/view?usp=drivesdk)
 ## Libraries used
 1. tweepy - 3.10.0
