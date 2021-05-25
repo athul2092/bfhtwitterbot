@@ -12,13 +12,14 @@ BFH/rec0dNSukwSW0e1Yl/2021
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-Django - 2.2
-Tweepy - 3.10
+tweepy - 3.10.0
+fastapi - 0.65.1
+uvicorn - 0.13.4
 ## How to configure
 ```
 git clone https://github.com/athul2092/bfhtwitterbot
 cd bfhtwitterbot
-pip install -r requirements.txt
+sudo pip3 install -r requirements.txt
 ```
 Create a config.json file in root directory and add your twitter api credentials
 ```
@@ -32,7 +33,6 @@ Create a config.json file in root directory and add your twitter api credentials
 ```
 ## How to Run
 ```
-python manage.py runserver
+sudo python3 -m uvicorn main:app --host 0.0.0.0 --port 80
 ```
-By default the server will use port 8000
-http://localhost:8000
+http://localhost:80
